@@ -1,4 +1,6 @@
-# Olá!👋. Seja bem vindo ao meu perfil!
+# Pedro Quintão
+
+---
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Quintão-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quintaopedro)](https://www.linkedin.com/in/quintaopedro) 
 [![Gmail Badge](https://img.shields.io/badge/-pedro.h.quintao@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.h.quintao@hotmail.com)](mailto:pedro.h.quintao@hotmail.com)
@@ -7,7 +9,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Me chamo Pedro Quintão, sou apaixonado por desenvolvimento de software, estou em transição de carreira do setor elétrico para a área de tecnologia. Tenho formação em Engenharia de Automação Industrial e adquiri habilidades em **React**, **HTML**, **CSS**, **JavaScript**, **TypeScript**, e **Node.js** através de cursos e estudos autodidatas. Sou calmo, paciente e dedicado ao aprendizado contínuo, valorizo o trabalho em equipe e estou sempre disposto a colaborar para criar um ambiente de trabalho harmonioso e eficaz.
+Olá!👋. Seja bem vindo ao meu perfil! Me chamo Pedro, sou apaixonado por desenvolvimento de software, estou em transição de carreira do setor elétrico para a área de tecnologia. Tenho formação em Engenharia de Automação Industrial e adquiri habilidades em **React**, **HTML**, **CSS**, **JavaScript**, **TypeScript**, e **Node.js** através de cursos e estudos autodidatas. Sou calmo, paciente e dedicado ao aprendizado contínuo, valorizo o trabalho em equipe e estou sempre disposto a colaborar para criar um ambiente de trabalho harmonioso e eficaz.
 
 ---
 
