@@ -1,7 +1,5 @@
 # Pedro Quintão
 
----
-
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Quintão-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quintaopedro)](https://www.linkedin.com/in/quintaopedro) 
 [![Gmail Badge](https://img.shields.io/badge/-pedro.h.quintao@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.h.quintao@hotmail.com)](mailto:pedro.h.quintao@hotmail.com)
 
